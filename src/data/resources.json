@@ -1,6 +1,7 @@
 [
   {
     "id": "ai",
+    "logo": "/images/resources/ai-draft.svg",
     "name": "AI draft",
     "url": "https://michaelcoughlin.net",
     "title": "AI",
@@ -36,6 +37,7 @@
   },
   {
     "id": "selling-jesus",
+    "logo": "/images/resources/selling-jesus.png",
     "name": "Selling Jesus",
     "url": "https://sellingjesus.org",
     "title": "Website",
@@ -44,6 +46,7 @@
   },
   {
     "id": "simony",
+    "logo": "/images/resources/simony.png",
     "name": "The Doctrine of Simony",
     "url": "https://simony.info",
     "title": "Website",
@@ -52,6 +55,7 @@
   },
   {
     "id": "copy-church",
+    "logo": "/images/resources/copy-church.png",
     "name": "Let's copy, church",
     "url": "https://copy.church",
     "title": "Website",
@@ -60,6 +64,7 @@
   },
   {
     "id": "freely-giving-home",
+    "logo": "/images/resources/freely-giving.png",
     "name": "Freely Giving",
     "url": "https://freely.giving",
     "title": "Website",
@@ -68,6 +73,7 @@
   },
   {
     "id": "freely-giving",
+    "logo": "/images/resources/books-freely-giving.png",
     "name": "books.freely.giving",
     "url": "https://books.freely.giving",
     "title": "Website",

@@ -3,7 +3,7 @@ id: 39
 title: How should a minister view the money he receives?
 categories:
   - support
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-is-double-honor
   - how-should-churches-support-missionaries

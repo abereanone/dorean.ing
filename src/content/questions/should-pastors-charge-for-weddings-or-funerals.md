@@ -3,7 +3,7 @@ id: 41
 title: Should pastors charge for weddings or funerals?
 categories:
   - practice
-authorId: ai
+authorId: mac
 relatedAnswers:
   - should-biblical-counseling-be-free
   - may-christian-conferences-charge-admission

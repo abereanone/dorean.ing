@@ -3,7 +3,7 @@ id: 57
 title: "Isn't a Creative Commons license enough?"
 categories:
   - copyright
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-is-the-public-domain
   - does-copyright-protect-the-bible-from-corruption

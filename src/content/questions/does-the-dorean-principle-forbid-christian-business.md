@@ -3,7 +3,7 @@ id: 10
 title: Does the dorean principle forbid Christians from running businesses?
 categories:
   - principle
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-counts-as-gospel-ministry
   - how-is-a-free-gospel-connected-to-free-ministry

@@ -3,7 +3,7 @@ id: 58
 title: "Doesn't copyright protect the Bible and good teaching from corruption?"
 categories:
   - copyright
-authorId: ai
+authorId: mac
 relatedAnswers:
   - why-not-use-a-creative-commons-license
   - how-can-a-christian-author-give-his-work-away

@@ -3,7 +3,7 @@ id: 24
 title: Did the early church practice the dorean principle?
 categories:
   - scripture
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-does-balaam-teach-us
   - how-does-scripture-describe-teachers-who-serve-for-gain

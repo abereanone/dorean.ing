@@ -3,7 +3,7 @@ id: 21
 title: What does Micah say about priests who teach for a price?
 categories:
   - scripture
-authorId: ai
+authorId: mac
 relatedAnswers:
   - why-did-jesus-drive-the-sellers-out-of-the-temple
   - how-does-scripture-describe-teachers-who-serve-for-gain

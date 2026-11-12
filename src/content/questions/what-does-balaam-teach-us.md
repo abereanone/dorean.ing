@@ -3,7 +3,7 @@ id: 23
 title: What does Balaam teach us about ministry and money?
 categories:
   - scripture
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-does-scripture-describe-teachers-who-serve-for-gain
   - did-the-early-church-practice-the-dorean-principle

@@ -3,7 +3,7 @@ id: 6
 title: What is the difference between supporting ministry and selling it?
 categories:
   - principle
-authorId: ai
+authorId: mac
 relatedAnswers:
   - is-selling-ministry-a-kind-of-stealing
   - what-is-colabor

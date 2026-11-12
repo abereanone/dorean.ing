@@ -3,7 +3,7 @@ id: 55
 title: Should Christian songwriters copyright their worship songs?
 categories:
   - copyright
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-is-the-worship-tax
   - what-is-the-public-domain

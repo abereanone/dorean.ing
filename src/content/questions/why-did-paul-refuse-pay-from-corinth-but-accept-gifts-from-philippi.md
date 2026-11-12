@@ -3,7 +3,7 @@ id: 15
 title: Why did Paul refuse payment from Corinth but accept gifts from Philippi?
 categories:
   - scripture
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-did-paul-practice-free-ministry
   - what-was-the-sin-of-gehazi

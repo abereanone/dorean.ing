@@ -3,7 +3,7 @@ id: 42
 title: May Christian conferences charge admission?
 categories:
   - practice
-authorId: ai
+authorId: mac
 relatedAnswers:
   - should-pastors-charge-for-weddings-or-funerals
   - should-seminaries-charge-tuition

@@ -3,7 +3,7 @@ id: 66
 title: "What about \"suggested donations,\" sliding scales or scholarships?"
 categories:
   - objections
-authorId: ai
+authorId: mac
 relatedAnswers:
   - isnt-the-dorean-principle-legalism
   - should-christians-boycott-ministries-that-charge

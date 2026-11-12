@@ -3,7 +3,7 @@ id: 53
 title: If ministry should be free, may I copy a copyrighted Christian book without permission?
 categories:
   - copyright
-authorId: ai
+authorId: mac
 relatedAnswers:
   - should-bible-translations-be-copyrighted
   - what-is-the-worship-tax

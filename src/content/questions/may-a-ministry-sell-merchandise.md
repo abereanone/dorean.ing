@@ -3,7 +3,7 @@ id: 48
 title: May a ministry sell merchandise to raise money?
 categories:
   - practice
-authorId: ai
+authorId: mac
 relatedAnswers:
   - should-bible-software-and-apps-be-free
   - how-should-parachurch-ministries-be-funded

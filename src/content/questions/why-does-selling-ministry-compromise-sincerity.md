@@ -3,7 +3,7 @@ id: 12
 title: Why does selling ministry compromise its sincerity?
 categories:
   - principle
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-is-a-free-gospel-connected-to-free-ministry
   - does-the-dorean-principle-forbid-christian-business

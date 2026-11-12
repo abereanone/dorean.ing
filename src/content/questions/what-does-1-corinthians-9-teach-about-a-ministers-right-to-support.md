@@ -3,7 +3,7 @@ id: 29
 title: "What does 1 Corinthians 9 teach about a minister's right to support?"
 categories:
   - support
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-does-it-mean-to-muzzle-the-ox
   - who-should-support-a-minister

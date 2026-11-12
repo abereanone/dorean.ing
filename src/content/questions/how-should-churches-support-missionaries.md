@@ -3,7 +3,7 @@ id: 37
 title: How should churches support missionaries?
 categories:
   - support
-authorId: ai
+authorId: mac
 relatedAnswers:
   - may-a-church-give-a-visiting-preacher-an-honorarium
   - what-is-double-honor

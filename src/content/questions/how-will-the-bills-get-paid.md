@@ -3,7 +3,7 @@ id: 64
 title: Ministry costs money. How else will the bills be paid?
 categories:
   - objections
-authorId: ai
+authorId: mac
 relatedAnswers:
   - dont-people-value-what-they-pay-for
   - isnt-the-dorean-principle-legalism

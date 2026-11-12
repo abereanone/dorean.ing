@@ -28,7 +28,8 @@ export const siteSettings = {
     twitterCard: "summary_large_image",
   },
   showQuestionId: true,
-  showAuthor: true,
+  // Answers name no author on the page; the Resources page says how they were written.
+  showAuthor: false,
   enablePagination: true,
   questionsPerPage: 30,
 } as const;

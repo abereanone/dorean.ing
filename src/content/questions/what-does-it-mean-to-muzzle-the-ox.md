@@ -3,7 +3,7 @@ id: 28
 title: "What does it mean to \"muzzle the ox\"?"
 categories:
   - support
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-does-the-worker-is-worthy-of-his-wages-mean
   - what-does-1-corinthians-9-teach-about-a-ministers-right-to-support

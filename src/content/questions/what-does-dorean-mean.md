@@ -3,7 +3,7 @@ id: 2
 title: What does the Greek word dorean mean?
 categories:
   - principle
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-is-the-dorean-principle
   - where-did-jesus-command-freely-give

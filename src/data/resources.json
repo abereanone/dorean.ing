@@ -1,14 +1,5 @@
 [
   {
-    "id": "ai",
-    "logo": "/images/resources/ai-draft.svg",
-    "name": "AI draft",
-    "url": "https://michaelcoughlin.net",
-    "title": "AI",
-    "bio": "Answers drafted with Claude (Anthropic) for Michael Coughlin to review. They aim to agree with the 1689 Baptist Confession of Faith, and every answer rests on the Scripture cited under it.",
-    "sortOrder": 10
-  },
-  {
     "id": "mac",
     "photo": "/images/resources/mac.jpg",
     "name": "Michael Coughlin",
@@ -28,7 +19,7 @@
   },
   {
     "id": "dorean-book",
-    "logo": "/images/resources/dorean.png",
+    "logo": "/images/resources/tdp.png",
     "name": "The Dorean Principle (book)",
     "url": "https://thedoreanprinciple.org",
     "title": "Read Online",

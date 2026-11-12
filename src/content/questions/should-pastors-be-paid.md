@@ -3,7 +3,7 @@ id: 25
 title: Should pastors be paid?
 categories:
   - support
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-does-the-1689-confession-say-about-supporting-pastors
   - what-does-the-worker-is-worthy-of-his-wages-mean

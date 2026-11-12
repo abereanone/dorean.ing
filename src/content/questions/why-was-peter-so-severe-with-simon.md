@@ -3,7 +3,7 @@ id: 18
 title: Why was Peter so severe with Simon, when Paul was patient with the Corinthians?
 categories:
   - scripture
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-was-the-sin-of-simon-the-sorcerer
   - what-does-peddling-the-word-of-god-mean

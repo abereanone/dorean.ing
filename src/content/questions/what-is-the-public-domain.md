@@ -3,7 +3,7 @@ id: 56
 title: What is the public domain, and why does it matter for ministry?
 categories:
   - copyright
-authorId: ai
+authorId: mac
 relatedAnswers:
   - should-christian-songwriters-copyright-worship-songs
   - why-not-use-a-creative-commons-license

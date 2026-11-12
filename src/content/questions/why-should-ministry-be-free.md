@@ -3,7 +3,7 @@ id: 4
 title: Why should the ministry of the Word be given freely?
 categories:
   - principle
-authorId: ai
+authorId: mac
 relatedAnswers:
   - where-did-jesus-command-freely-give
   - is-selling-ministry-a-kind-of-stealing

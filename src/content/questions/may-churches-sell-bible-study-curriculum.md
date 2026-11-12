@@ -3,7 +3,7 @@ id: 45
 title: May ministries sell Bible study curriculum to churches?
 categories:
   - practice
-authorId: ai
+authorId: mac
 relatedAnswers:
   - may-christians-sell-books-of-biblical-teaching
   - should-sermons-and-teaching-be-behind-a-paywall

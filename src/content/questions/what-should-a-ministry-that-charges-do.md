@@ -3,7 +3,7 @@ id: 69
 title: What should a minister or ministry that currently charges do?
 categories:
   - objections
-authorId: ai
+authorId: mac
 relatedAnswers:
   - are-ministers-who-charge-false-teachers
   - should-christians-boycott-ministries-that-charge

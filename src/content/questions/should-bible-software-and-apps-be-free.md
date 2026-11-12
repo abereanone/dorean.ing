@@ -3,7 +3,7 @@ id: 47
 title: Should Bible software and Christian apps be free?
 categories:
   - practice
-authorId: ai
+authorId: mac
 relatedAnswers:
   - should-sermons-and-teaching-be-behind-a-paywall
   - may-a-ministry-sell-merchandise

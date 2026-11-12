@@ -3,7 +3,7 @@ id: 17
 title: What was the sin of Simon the sorcerer?
 categories:
   - scripture
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-was-the-sin-of-gehazi
   - why-was-peter-so-severe-with-simon

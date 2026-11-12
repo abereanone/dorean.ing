@@ -3,7 +3,7 @@ id: 38
 title: "What is the \"double honor\" owed to elders?"
 categories:
   - support
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-should-churches-support-missionaries
   - how-should-a-minister-view-his-income

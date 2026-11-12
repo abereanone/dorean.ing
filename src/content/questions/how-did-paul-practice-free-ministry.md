@@ -3,7 +3,7 @@ id: 14
 title: How did Paul practice free ministry?
 categories:
   - scripture
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-did-jesus-teach-when-he-sent-out-the-twelve
   - why-did-paul-refuse-pay-from-corinth-but-accept-gifts-from-philippi

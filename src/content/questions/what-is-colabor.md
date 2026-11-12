@@ -3,7 +3,7 @@ id: 7
 title: What is colabor?
 categories:
   - principle
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-is-the-difference-between-supporting-and-selling-ministry
   - what-is-reciprocity

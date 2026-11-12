@@ -3,7 +3,7 @@ id: 65
 title: "Isn't the dorean principle legalism?"
 categories:
   - objections
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-will-the-bills-get-paid
   - what-about-suggested-donations-and-scholarships

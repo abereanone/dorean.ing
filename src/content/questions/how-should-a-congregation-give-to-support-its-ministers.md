@@ -3,7 +3,7 @@ id: 31
 title: How should a congregation give to support its ministers?
 categories:
   - support
-authorId: ai
+authorId: mac
 relatedAnswers:
   - who-should-support-a-minister
   - what-happens-when-a-church-fails-to-support-its-ministers

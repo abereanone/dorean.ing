@@ -3,7 +3,7 @@ id: 43
 title: Should seminaries charge tuition?
 categories:
   - practice
-authorId: ai
+authorId: mac
 relatedAnswers:
   - may-christian-conferences-charge-admission
   - may-christians-sell-books-of-biblical-teaching

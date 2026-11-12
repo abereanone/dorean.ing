@@ -3,7 +3,7 @@ id: 27
 title: "What does \"the worker is worthy of his wages\" mean?"
 categories:
   - support
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-does-the-1689-confession-say-about-supporting-pastors
   - what-does-it-mean-to-muzzle-the-ox

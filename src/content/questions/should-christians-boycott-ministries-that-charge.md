@@ -3,7 +3,7 @@ id: 67
 title: Should Christians boycott ministries that charge?
 categories:
   - objections
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-about-suggested-donations-and-scholarships
   - are-ministers-who-charge-false-teachers

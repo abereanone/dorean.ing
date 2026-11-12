@@ -3,7 +3,7 @@ id: 33
 title: "Is a pastor's salary the same as selling ministry?"
 categories:
   - support
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-happens-when-a-church-fails-to-support-its-ministers
   - what-is-tentmaking

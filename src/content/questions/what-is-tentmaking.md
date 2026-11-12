@@ -3,7 +3,7 @@ id: 34
 title: What is tentmaking, and is it required?
 categories:
   - support
-authorId: ai
+authorId: mac
 relatedAnswers:
   - is-a-pastors-salary-the-same-as-selling-ministry
   - may-a-minister-receive-a-gift-from-someone-he-has-helped

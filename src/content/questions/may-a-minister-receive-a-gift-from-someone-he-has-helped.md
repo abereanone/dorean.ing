@@ -3,7 +3,7 @@ id: 35
 title: May a minister accept a gift from someone he has helped?
 categories:
   - support
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-is-tentmaking
   - may-a-church-give-a-visiting-preacher-an-honorarium

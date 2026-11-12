@@ -3,7 +3,7 @@ id: 8
 title: What is reciprocity, and why is it wrong in ministry?
 categories:
   - principle
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-is-colabor
   - what-counts-as-gospel-ministry

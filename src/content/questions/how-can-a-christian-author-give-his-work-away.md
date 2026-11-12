@@ -3,7 +3,7 @@ id: 59
 title: How can a Christian author or ministry give its work away?
 categories:
   - copyright
-authorId: ai
+authorId: mac
 relatedAnswers:
   - does-copyright-protect-the-bible-from-corruption
   - why-not-use-a-creative-commons-license

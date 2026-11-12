@@ -3,7 +3,7 @@ id: 16
 title: What was the sin of Gehazi?
 categories:
   - scripture
-authorId: ai
+authorId: mac
 relatedAnswers:
   - why-did-paul-refuse-pay-from-corinth-but-accept-gifts-from-philippi
   - what-was-the-sin-of-simon-the-sorcerer

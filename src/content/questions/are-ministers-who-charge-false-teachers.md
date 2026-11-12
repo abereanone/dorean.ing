@@ -3,7 +3,7 @@ id: 68
 title: Are ministers who charge for ministry false teachers?
 categories:
   - objections
-authorId: ai
+authorId: mac
 relatedAnswers:
   - should-christians-boycott-ministries-that-charge
   - what-should-a-ministry-that-charges-do

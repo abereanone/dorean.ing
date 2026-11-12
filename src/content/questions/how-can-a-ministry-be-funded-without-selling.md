@@ -3,7 +3,7 @@ id: 50
 title: How can a ministry be funded without selling its work?
 categories:
   - practice
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-should-parachurch-ministries-be-funded
   - may-a-ministry-sell-merchandise

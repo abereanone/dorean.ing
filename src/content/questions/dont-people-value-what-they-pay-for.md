@@ -3,7 +3,7 @@ id: 63
 title: "Don't people value only what they pay for?"
 categories:
   - objections
-authorId: ai
+authorId: mac
 relatedAnswers:
   - isnt-a-small-fee-acceptable
   - how-will-the-bills-get-paid

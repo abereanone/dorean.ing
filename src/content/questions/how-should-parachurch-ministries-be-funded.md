@@ -3,7 +3,7 @@ id: 49
 title: How should parachurch ministries be funded?
 categories:
   - practice
-authorId: ai
+authorId: mac
 relatedAnswers:
   - may-a-ministry-sell-merchandise
   - how-can-a-ministry-be-funded-without-selling

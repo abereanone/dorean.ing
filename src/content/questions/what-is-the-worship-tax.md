@@ -3,7 +3,7 @@ id: 54
 title: Why do churches pay to sing worship songs?
 categories:
   - copyright
-authorId: ai
+authorId: mac
 relatedAnswers:
   - is-it-wrong-to-copy-a-copyrighted-christian-book
   - should-christian-songwriters-copyright-worship-songs

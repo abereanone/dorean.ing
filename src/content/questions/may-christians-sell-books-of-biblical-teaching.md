@@ -3,7 +3,7 @@ id: 44
 title: May Christians sell books of biblical teaching?
 categories:
   - practice
-authorId: ai
+authorId: mac
 relatedAnswers:
   - should-seminaries-charge-tuition
   - may-churches-sell-bible-study-curriculum

@@ -3,7 +3,7 @@ id: 46
 title: Should sermons and Bible teaching be behind a paywall?
 categories:
   - practice
-authorId: ai
+authorId: mac
 relatedAnswers:
   - may-churches-sell-bible-study-curriculum
   - should-bible-software-and-apps-be-free

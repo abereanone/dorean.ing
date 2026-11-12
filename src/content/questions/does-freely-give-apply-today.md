@@ -3,7 +3,7 @@ id: 60
 title: "Was \"freely give\" only for the apostles' first mission?"
 categories:
   - objections
-authorId: ai
+authorId: mac
 relatedAnswers:
   - was-freely-give-only-about-miracles
   - isnt-a-small-fee-acceptable

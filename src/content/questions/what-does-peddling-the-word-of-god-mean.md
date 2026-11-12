@@ -3,7 +3,7 @@ id: 19
 title: "What does Paul mean by \"peddling the word of God\"?"
 categories:
   - scripture
-authorId: ai
+authorId: mac
 relatedAnswers:
   - why-was-peter-so-severe-with-simon
   - why-did-jesus-drive-the-sellers-out-of-the-temple

@@ -3,7 +3,7 @@ id: 62
 title: What if the fee is small, or only covers costs?
 categories:
   - objections
-authorId: ai
+authorId: mac
 relatedAnswers:
   - was-freely-give-only-about-miracles
   - dont-people-value-what-they-pay-for

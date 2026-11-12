@@ -3,7 +3,7 @@ id: 61
 title: Was Jesus only forbidding payment for miracles, not for teaching?
 categories:
   - objections
-authorId: ai
+authorId: mac
 relatedAnswers:
   - does-freely-give-apply-today
   - isnt-a-small-fee-acceptable

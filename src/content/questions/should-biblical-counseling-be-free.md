@@ -3,7 +3,7 @@ id: 40
 title: Should biblical counseling be free?
 categories:
   - practice
-authorId: ai
+authorId: mac
 relatedAnswers:
   - should-pastors-charge-for-weddings-or-funerals
   - may-christian-conferences-charge-admission

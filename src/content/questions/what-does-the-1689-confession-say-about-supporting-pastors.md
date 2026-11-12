@@ -3,7 +3,7 @@ id: 26
 title: What does the 1689 Baptist Confession say about supporting pastors?
 categories:
   - support
-authorId: ai
+authorId: mac
 relatedAnswers:
   - should-pastors-be-paid
   - what-does-the-worker-is-worthy-of-his-wages-mean

@@ -3,7 +3,7 @@ id: 52
 title: Should Bible translations be copyrighted?
 categories:
   - copyright
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-does-copyright-have-to-do-with-freely-giving
   - is-it-wrong-to-copy-a-copyrighted-christian-book

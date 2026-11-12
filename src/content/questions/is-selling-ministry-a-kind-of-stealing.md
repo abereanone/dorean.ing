@@ -3,7 +3,7 @@ id: 5
 title: Is selling ministry a kind of stealing?
 categories:
   - principle
-authorId: ai
+authorId: mac
 relatedAnswers:
   - why-should-ministry-be-free
   - what-is-the-difference-between-supporting-and-selling-ministry

@@ -3,7 +3,7 @@ id: 36
 title: May a church give a visiting preacher an honorarium?
 categories:
   - support
-authorId: ai
+authorId: mac
 relatedAnswers:
   - may-a-minister-receive-a-gift-from-someone-he-has-helped
   - how-should-churches-support-missionaries

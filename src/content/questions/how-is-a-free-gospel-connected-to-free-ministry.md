@@ -3,7 +3,7 @@ id: 11
 title: How is a free gospel connected to free ministry?
 categories:
   - principle
-authorId: ai
+authorId: mac
 relatedAnswers:
   - does-the-dorean-principle-forbid-christian-business
   - why-does-selling-ministry-compromise-sincerity

@@ -3,7 +3,7 @@ id: 32
 title: What happens when a church fails to support its ministers?
 categories:
   - support
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-should-a-congregation-give-to-support-its-ministers
   - is-a-pastors-salary-the-same-as-selling-ministry

@@ -3,7 +3,7 @@ id: 9
 title: What counts as gospel ministry under the dorean principle?
 categories:
   - principle
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-is-reciprocity
   - does-the-dorean-principle-forbid-christian-business

@@ -3,7 +3,7 @@ id: 20
 title: Why did Jesus drive the sellers out of the temple?
 categories:
   - scripture
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-does-peddling-the-word-of-god-mean
   - what-does-micah-say-about-priests-who-teach-for-a-price

@@ -3,7 +3,7 @@ id: 13
 title: What did Jesus teach when He sent out the twelve?
 categories:
   - scripture
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-did-paul-practice-free-ministry
   - why-did-paul-refuse-pay-from-corinth-but-accept-gifts-from-philippi

@@ -3,7 +3,7 @@ id: 22
 title: How does Scripture describe teachers who serve for gain?
 categories:
   - scripture
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-does-micah-say-about-priests-who-teach-for-a-price
   - what-does-balaam-teach-us

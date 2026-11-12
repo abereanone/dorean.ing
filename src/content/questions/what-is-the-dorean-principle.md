@@ -3,7 +3,7 @@ id: 1
 title: What is the dorean principle?
 categories:
   - principle
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-does-dorean-mean
   - where-did-jesus-command-freely-give

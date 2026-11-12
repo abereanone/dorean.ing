@@ -3,7 +3,7 @@ id: 3
 title: Where did Jesus command His servants to give freely?
 categories:
   - principle
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-does-dorean-mean
   - why-should-ministry-be-free

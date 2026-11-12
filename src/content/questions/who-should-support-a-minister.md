@@ -3,7 +3,7 @@ id: 30
 title: Who should support a minister?
 categories:
   - support
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-does-1-corinthians-9-teach-about-a-ministers-right-to-support
   - how-should-a-congregation-give-to-support-its-ministers

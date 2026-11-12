@@ -1,0 +1,38 @@
+[
+  {
+    "id": "principle",
+    "name": "The Principle",
+    "sortOrder": 10,
+    "groupCode": "prin"
+  },
+  {
+    "id": "scripture",
+    "name": "The Witness of Scripture",
+    "sortOrder": 20,
+    "groupCode": "scrip"
+  },
+  {
+    "id": "support",
+    "name": "Supporting Ministers",
+    "sortOrder": 30,
+    "groupCode": "supp"
+  },
+  {
+    "id": "practice",
+    "name": "Ministry in Practice",
+    "sortOrder": 40,
+    "groupCode": "prac"
+  },
+  {
+    "id": "copyright",
+    "name": "Copyright and the Church",
+    "sortOrder": 50,
+    "groupCode": "copy"
+  },
+  {
+    "id": "objections",
+    "name": "Objections Answered",
+    "sortOrder": 60,
+    "groupCode": "obj"
+  }
+]

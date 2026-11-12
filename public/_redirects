@@ -1,0 +1,6 @@
+# Redirect rules for Workers static assets. Astro copies this file into dist/, and the
+# question-redirects integration in astro.config.mjs puts the generated static rules
+# above these (any rule after a splat counts against the 100-rule dynamic limit).
+#
+# Short alias: /q/<slugOrId> -> /questions/<slugOrId>.
+/q/* /questions/:splat 301

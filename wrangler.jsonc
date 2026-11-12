@@ -1,0 +1,15 @@
+// Cloudflare Worker serving the built site as static assets (no Worker code).
+// Workers Builds runs `npm run build`, then `npx wrangler deploy`.
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "dorean-ing",
+  "compatibility_date": "2026-11-11",
+  "account_id": "6481c7e370bbed874eb7679096eb1612",
+  "assets": {
+    "directory": "./dist",
+    // dist/404.html for anything not found, with a 404 status.
+    "not_found_handling": "404-page",
+  },
+  // Custom domain: add once dorean.ing is a zone in this account.
+  // "routes": [{ "pattern": "dorean.ing", "custom_domain": true }]
+}

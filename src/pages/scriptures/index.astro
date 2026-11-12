@@ -1,0 +1,515 @@
+---
+import Main from "@/layouts/Main.astro";
+import { listScriptures } from "@/lib/scriptures";
+import { siteSettings } from "@/config/siteSettings";
+
+// One flat list in canonical order. This catechism cites ~110 references, few enough
+// that grouping them by book cost more than it gave: most books held one or two cards,
+// so the page read as mostly headings.
+const entries = listScriptures();
+
+const oldTestamentCodes = new Set([
+  "gen",
+  "exo",
+  "lev",
+  "num",
+  "deu",
+  "jos",
+  "jdg",
+  "rut",
+  "1sa",
+  "2sa",
+  "1ki",
+  "2ki",
+  "1ch",
+  "2ch",
+  "ezr",
+  "neh",
+  "est",
+  "job",
+  "psa",
+  "pro",
+  "ecc",
+  "sng",
+  "isa",
+  "jer",
+  "lam",
+  "ezk",
+  "dan",
+  "hos",
+  "jol",
+  "amo",
+  "oba",
+  "jon",
+  "mic",
+  "nah",
+  "hab",
+  "zep",
+  "hag",
+  "zec",
+  "mal",
+]);
+
+const siteName = siteSettings.branding.siteName;
+---
+
+<Main title={`Scriptures | ${siteName}`}>
+  <section class="card-panel" id="scripture-index-top">
+    <h1>Scriptures</h1>
+    <p>Browse the scripture references cited in proof sections and see which questions use them.</p>
+
+    {
+      entries.length ? (
+        <>
+          <div class="scripture-testament-picker" aria-label="Choose testament">
+            <button
+              type="button"
+              class="scripture-testament-button is-active"
+              aria-pressed="true"
+              data-testament-button
+              data-testament-target="all"
+            >
+              All
+            </button>
+            <button
+              type="button"
+              class="scripture-testament-button"
+              aria-pressed="false"
+              data-testament-button
+              data-testament-target="ot"
+            >
+              Old Testament
+            </button>
+            <button
+              type="button"
+              class="scripture-testament-button"
+              aria-pressed="false"
+              data-testament-button
+              data-testament-target="nt"
+            >
+              New Testament
+            </button>
+          </div>
+
+          <label class="scripture-filter">
+            <span class="scripture-filter-label">Filter references</span>
+            <input
+              type="search"
+              class="scripture-filter-input"
+              placeholder="Search references, e.g. Exodus 1 or ex 1"
+              data-scripture-filter
+            />
+          </label>
+
+          <ul class="scripture-grid">
+            {entries.map((entry) => (
+              <li
+                data-scripture-item
+                data-testament={oldTestamentCodes.has(entry.bookCode) ? "ot" : "nt"}
+                data-book-code={entry.bookCode}
+                data-book-search={entry.bookSearchText}
+                data-reference-search={entry.referencePart}
+              >
+                <a class="scripture-card card-panel" href={`/scriptures/${entry.slug}`}>
+                  <span class="scripture-reference">{entry.reference}</span>
+                  <span class="scripture-count">
+                    {entry.questionCount === 1 ? "1 question" : `${entry.questionCount} questions`}
+                  </span>
+                </a>
+              </li>
+            ))}
+          </ul>
+
+          <p class="scripture-empty-state" data-scripture-empty hidden>
+            <em>No references match that search.</em>
+          </p>
+        </>
+      ) : (
+        <p>
+          <em>No scripture references are indexed yet.</em>
+        </p>
+      )
+    }
+  </section>
+
+  <script type="module" is:inline>
+    const input = document.querySelector("[data-scripture-filter]");
+    const items = [...document.querySelectorAll("[data-scripture-item]")];
+    const buttons = [...document.querySelectorAll("[data-testament-button]")];
+    const emptyState = document.querySelector("[data-scripture-empty]");
+    const singleChapterBooks = new Set(["oba", "phm", "2jn", "3jn", "jud"]);
+    let activeTestament = "all";
+
+    const normalizeSearchValue = (value) =>
+      value
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, " ")
+        .trim();
+
+    const parseBookAliases = (value) =>
+      value
+        .split("|")
+        .map((alias) => normalizeSearchValue(alias))
+        .filter(Boolean)
+        .map((alias) => alias.split(/\s+/).filter(Boolean));
+
+    const findMatchedAliasLength = (queryTokens, aliasTokenSets) => {
+      let matchedLength = 0;
+
+      aliasTokenSets.forEach((aliasTokens) => {
+        if (aliasTokens.length > queryTokens.length) {
+          return;
+        }
+
+        const matches = aliasTokens.every((token, index) => queryTokens[index] === token);
+        if (matches) {
+          matchedLength = Math.max(matchedLength, aliasTokens.length);
+        }
+      });
+
+      return matchedLength;
+    };
+
+    const parseReferenceQuery = (tokens, isSingleChapterBook) => {
+      if (!tokens.length) {
+        return null;
+      }
+
+      const numbers = tokens
+        .map((token) => Number.parseInt(token, 10))
+        .filter((value) => Number.isFinite(value));
+
+      if (!numbers.length) {
+        return null;
+      }
+
+      if (numbers.length === 1) {
+        if (isSingleChapterBook) {
+          return { chapter: 1, verse: numbers[0] };
+        }
+        return { chapter: numbers[0], verse: null };
+      }
+
+      return { chapter: numbers[0], verse: numbers[1] };
+    };
+
+    const parseReferenceSegment = (value, isSingleChapterBook) => {
+      const segment = value.trim();
+      if (!segment) {
+        return null;
+      }
+
+      let match = segment.match(/^(\d+)$/);
+      if (match) {
+        const number = Number.parseInt(match[1], 10);
+        if (isSingleChapterBook) {
+          return {
+            startChapter: 1,
+            startVerse: number,
+            endChapter: 1,
+            endVerse: number,
+          };
+        }
+        const chapter = number;
+        return {
+          startChapter: chapter,
+          startVerse: 1,
+          endChapter: chapter,
+          endVerse: Number.MAX_SAFE_INTEGER,
+        };
+      }
+
+      match = segment.match(/^(\d+):(\d+)$/);
+      if (match) {
+        const chapter = Number.parseInt(match[1], 10);
+        const verse = Number.parseInt(match[2], 10);
+        return {
+          startChapter: chapter,
+          startVerse: verse,
+          endChapter: chapter,
+          endVerse: verse,
+        };
+      }
+
+      match = segment.match(/^(\d+):(\d+)-(\d+)$/);
+      if (match) {
+        const chapter = Number.parseInt(match[1], 10);
+        const startVerse = Number.parseInt(match[2], 10);
+        const endVerse = Number.parseInt(match[3], 10);
+        return {
+          startChapter: chapter,
+          startVerse,
+          endChapter: chapter,
+          endVerse,
+        };
+      }
+
+      match = segment.match(/^(\d+)-(\d+)$/);
+      if (match && isSingleChapterBook) {
+        return {
+          startChapter: 1,
+          startVerse: Number.parseInt(match[1], 10),
+          endChapter: 1,
+          endVerse: Number.parseInt(match[2], 10),
+        };
+      }
+
+      match = segment.match(/^(\d+):(\d+)-(\d+):(\d+)$/);
+      if (match) {
+        return {
+          startChapter: Number.parseInt(match[1], 10),
+          startVerse: Number.parseInt(match[2], 10),
+          endChapter: Number.parseInt(match[3], 10),
+          endVerse: Number.parseInt(match[4], 10),
+        };
+      }
+
+      return null;
+    };
+
+    const matchesReferenceQuery = (referencePart, queryReference, isSingleChapterBook) => {
+      if (!queryReference) {
+        return true;
+      }
+
+      const segments = referencePart
+        .split(",")
+        .map((segment) => parseReferenceSegment(segment, isSingleChapterBook))
+        .filter(Boolean);
+
+      if (!segments.length) {
+        return false;
+      }
+
+      return segments.some((segment) => {
+        if (queryReference.verse == null) {
+          return (
+            queryReference.chapter >= segment.startChapter &&
+            queryReference.chapter <= segment.endChapter
+          );
+        }
+
+        if (
+          queryReference.chapter < segment.startChapter ||
+          queryReference.chapter > segment.endChapter
+        ) {
+          return false;
+        }
+
+        if (segment.startChapter === segment.endChapter) {
+          return (
+            queryReference.chapter === segment.startChapter &&
+            queryReference.verse >= segment.startVerse &&
+            queryReference.verse <= segment.endVerse
+          );
+        }
+
+        if (queryReference.chapter === segment.startChapter) {
+          return queryReference.verse >= segment.startVerse;
+        }
+
+        if (queryReference.chapter === segment.endChapter) {
+          return queryReference.verse <= segment.endVerse;
+        }
+
+        return (
+          queryReference.chapter > segment.startChapter &&
+          queryReference.chapter < segment.endChapter
+        );
+      });
+    };
+
+    const matchesSearch = (item, queryTokens) => {
+      if (!queryTokens.length) {
+        return true;
+      }
+
+      const aliasTokenSets = parseBookAliases(item.getAttribute("data-book-search") || "");
+      const matchedAliasLength = findMatchedAliasLength(queryTokens, aliasTokenSets);
+      const hasAlphaQuery = queryTokens.some((token) => /[a-z]/.test(token));
+
+      // A worded query naming no book this card belongs to cannot match it.
+      if (hasAlphaQuery && matchedAliasLength === 0) {
+        return false;
+      }
+
+      const remainingTokens =
+        matchedAliasLength > 0 ? queryTokens.slice(matchedAliasLength) : queryTokens;
+      const bookCode = String(item.getAttribute("data-book-code") || "");
+      const isSingleChapterBook = singleChapterBooks.has(bookCode);
+      const queryReference = parseReferenceQuery(remainingTokens, isSingleChapterBook);
+      const referencePart = String(item.getAttribute("data-reference-search") || "").trim();
+
+      return matchesReferenceQuery(referencePart, queryReference, isSingleChapterBook);
+    };
+
+    const applyFilter = () => {
+      const query = input ? input.value.trim().toLowerCase() : "";
+      const queryTokens = query ? normalizeSearchValue(query).split(/\s+/).filter(Boolean) : [];
+
+      let visible = 0;
+      items.forEach((item) => {
+        const testament = item.getAttribute("data-testament");
+        const shown =
+          (activeTestament === "all" || testament === activeTestament) &&
+          matchesSearch(item, queryTokens);
+        item.hidden = !shown;
+        if (shown) {
+          visible += 1;
+        }
+      });
+
+      if (emptyState) {
+        emptyState.hidden = visible > 0;
+      }
+    };
+
+    buttons.forEach((button) => {
+      button.addEventListener("click", () => {
+        activeTestament = button.getAttribute("data-testament-target") || "all";
+        buttons.forEach((other) => {
+          const isActive = other === button;
+          other.classList.toggle("is-active", isActive);
+          other.setAttribute("aria-pressed", String(isActive));
+        });
+        applyFilter();
+      });
+    });
+
+    if (input && items.length) {
+      window.setTimeout(() => {
+        input.focus();
+      }, 0);
+
+      input.addEventListener("input", () => {
+        applyFilter();
+      });
+    }
+
+    applyFilter();
+  </script>
+
+  <style>
+    .scripture-testament-picker {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+      margin: 1rem 0;
+    }
+
+    .scripture-testament-button {
+      border: 1px solid var(--chip-border);
+      background: var(--chip-bg);
+      color: inherit;
+      font: inherit;
+      padding: 0.45rem 1.1rem;
+      border-radius: var(--radius-pill);
+      cursor: pointer;
+      transition: var(--transition-border-bg-color);
+    }
+
+    .scripture-testament-button:hover,
+    .scripture-testament-button:focus-visible {
+      background: var(--chip-hover-bg);
+      border-color: var(--chip-hover-border);
+    }
+
+    .scripture-testament-button.is-active {
+      background: var(--accent-bg);
+      border-color: var(--accent-bg);
+      color: var(--accent-text);
+      font-weight: 600;
+    }
+
+    .scripture-filter {
+      display: block;
+      margin: 0 0 1.4rem;
+    }
+
+    .scripture-filter-label {
+      display: block;
+      font-weight: 600;
+      margin-bottom: 0.4rem;
+    }
+
+    .scripture-filter-input {
+      width: min(100%, 26rem);
+      padding: 0.6rem 0.9rem;
+      border-radius: var(--radius-pill);
+      border: 1px solid var(--input-border);
+      background: var(--input-bg);
+      color: var(--input-text);
+      font: inherit;
+    }
+
+    .scripture-filter-input::placeholder {
+      color: var(--input-placeholder);
+    }
+
+    .scripture-empty-state {
+      margin: 1.5rem 0 0;
+      color: var(--meta-text);
+    }
+
+    /* Four across, stepping down as the row narrows. Explicit track counts rather than
+       auto-fit: auto-fit collapses the tracks it cannot fill, which let a short filtered
+       result stretch its cards across the whole row. */
+    .scripture-grid {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: 0.9rem;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+
+    /* Stretch the card by making the cell a grid, not with height: 100%. This template
+       has no box-sizing reset, so height: 100% set the card's CONTENT box to the cell
+       height and then added padding and border on top -- every card overflowed its cell
+       by ~21px and sat on the row below. border-box here guards against a reprise. */
+    .scripture-grid > li {
+      display: grid;
+    }
+
+    .scripture-grid > li[hidden] {
+      display: none;
+    }
+
+    .scripture-card {
+      box-sizing: border-box;
+      display: grid;
+      align-content: start;
+      gap: 0.15rem;
+      padding: 0.6rem 0.8rem;
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .scripture-reference {
+      font-weight: 700;
+    }
+
+    .scripture-count {
+      font-size: 0.85rem;
+      color: var(--meta-text);
+    }
+
+    @media (max-width: 900px) {
+      .scripture-grid {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 640px) {
+      .scripture-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 420px) {
+      .scripture-grid {
+        grid-template-columns: minmax(0, 1fr);
+      }
+    }
+  </style>
+</Main>

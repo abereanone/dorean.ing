@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="dorean.ing">
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0f5674" />
+      <stop offset="100%" stop-color="#071820" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#ground)" />
+  <path d="M256,64 C304,138 334,190 334,240 C334,284 299,314 256,314 C213,314 178,284 178,240 C178,190 208,138 256,64 Z" fill="#e9f5ff" />
+  <path d="M226,214 C226,190 238,168 252,150" fill="none" stroke="#0f5674" stroke-opacity="0.55" stroke-width="12" stroke-linecap="round" />
+  <path d="M104,350 H408 C408,412 340,452 256,452 C172,452 104,412 104,350 Z" fill="#d8a640" />
+  <path d="M150,372 H362" stroke="#071820" stroke-opacity="0.35" stroke-width="10" stroke-linecap="round" />
+</svg>

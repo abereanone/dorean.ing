@@ -1,0 +1,71 @@
+---
+import Main from "@/layouts/Main.astro";
+import { siteSettings } from "@/config/siteSettings";
+
+const siteName = siteSettings.branding.siteName;
+---
+
+<Main title={`About | ${siteName}`}>
+  <section class="prose" data-bible-autolink>
+    <h1>About {siteName}</h1>
+
+    <blockquote>
+      <p>&ldquo;Freely you have received; freely give.&rdquo;</p>
+      <p><cite>&mdash; Matthew 10:8</cite></p>
+    </blockquote>
+
+    <p>
+      <em>Dorean</em> is the Greek word Jesus used when He sent out the twelve: what they had received
+      without cost, they were to give without cost. It is the same word Paul uses for our justification,
+      &ldquo;freely by His grace&rdquo; (Romans 3:24), and the same word in the last invitation of the
+      Bible: &ldquo;let the one who is thirsty come, and the one who desires the water of life drink freely&rdquo;
+      (Revelation 22:17).
+    </p>
+
+    <p>
+      {siteName} asks and answers the questions Christians raise when they meet that command: what it
+      means, how it fits with paying pastors, and what it says about selling sermons, books, Bible translations,
+      worship songs, conferences, seminary courses and counseling. The short version, which the rest of
+      the site unfolds, is this: <strong>ministry should be supported, not sold.</strong>
+    </p>
+
+    <h2>How to use this site</h2>
+
+    <ul>
+      <li>Each answer is short, with the Scripture that grounds it listed underneath.</li>
+      <li>
+        Most questions also have a fuller explanation. Open &ldquo;Read the full explanation&rdquo;
+        under the answer.
+      </li>
+      <li>Hover over or tap any Scripture reference to read the verse (Berean Standard Bible).</li>
+      <li>Browse by category, search, or start with the first question and go in order.</li>
+    </ul>
+
+    <h2>Where this comes from</h2>
+
+    <p>
+      The argument here owes most to Conley Owens&apos;s book
+      <a href="https://thedoreanprinciple.org" target="_blank" rel="noopener noreferrer"
+        ><em>The Dorean Principle</em></a
+      >, which is free to read online and dedicated to the public domain, and to the articles at
+      <a href="https://sellingjesus.org" target="_blank" rel="noopener noreferrer">Selling Jesus</a
+      >. The questions and answers on this site are a fresh summary in question-and-answer form, so
+      that the case can be read a piece at a time and taught.
+    </p>
+
+    <p>
+      The answers were drafted with the help of AI for Michael Coughlin to review, and are marked as
+      such. Weigh every answer against the Scripture cited under it, as the Bereans did (Acts
+      17:11).
+    </p>
+
+    <h2>A word of charity</h2>
+
+    <p>
+      Many faithful ministers charge for their work because that is how the work was handed to them,
+      not because they love money. This site is written to persuade brothers and sisters, not to
+      accuse them. &ldquo;What then is the issue? Just this: that in every way, whether by false
+      motives or true, Christ is preached. And in this I rejoice&rdquo; (Philippians 1:18).
+    </p>
+  </section>
+</Main>

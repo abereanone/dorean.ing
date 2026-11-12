@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ai",
+    "name": "AI draft",
+    "url": "https://michaelcoughlin.net",
+    "title": "AI",
+    "bio": "Answers drafted with Claude (Anthropic) for Michael Coughlin to review. They aim to agree with the 1689 Baptist Confession of Faith, and every answer rests on the Scripture cited under it.",
+    "sortOrder": 10
+  },
+  {
+    "id": "mac",
+    "photo": "/images/resources/mac.jpg",
+    "name": "Michael Coughlin",
+    "url": "https://thingsabove.us/author/mac/",
+    "title": "Curator",
+    "bio": "Preacher from Ohio who loves Jesus, my wife, my kids, and my neighbors: including the preborn/voiceless.",
+    "sortOrder": 15
+  },
+  {
+    "id": "dorean-book",
+    "logo": "/images/resources/dorean.png",
+    "name": "The Dorean Principle (book)",
+    "url": "https://thedoreanprinciple.org",
+    "title": "Read Online",
+    "bio": "Conley Owens's study of what the New Testament teaches about funding ministry, free to read online and dedicated to the public domain. Much of this site follows its argument.",
+    "sortOrder": 20
+  },
+  {
+    "id": "selling-jesus",
+    "name": "Selling Jesus",
+    "url": "https://sellingjesus.org",
+    "title": "Website",
+    "bio": "Articles, videos and answers to common objections on why ministry should be supported, not sold. Its original content is in the public domain.",
+    "sortOrder": 30
+  },
+  {
+    "id": "copy-church",
+    "name": "Let's copy, church",
+    "url": "https://copy.church",
+    "title": "Website",
+    "bio": "On removing copyright restrictions from Christian resources so they can be freely copied, translated and shared.",
+    "sortOrder": 40
+  },
+  {
+    "id": "freely-giving",
+    "name": "books.freely.giving",
+    "url": "https://books.freely.giving",
+    "title": "Website",
+    "bio": "Christian books whose authors have given them away: free to read online, download, copy and translate.",
+    "sortOrder": 50
+  },
+  {
+    "id": "rcs",
+    "logo": "/images/resources/rcs.png",
+    "name": "Reformed Catechisms",
+    "url": "https://catechize.ing",
+    "title": "Site",
+    "bio": "Our sister site, displaying reformed catechism question and answers.",
+    "sortOrder": 60
+  },
+  {
+    "id": "rconfess",
+    "logo": "/images/resources/rconfess.png",
+    "name": "Reformed Confessions",
+    "url": "https://confess.catechize.ing/",
+    "title": "Website",
+    "bio": "Easily read, study and compare reformed confessions, reverse lookup scripture, and read the Bible online for FREE.",
+    "sortOrder": 70
+  },
+  {
+    "id": "mac-links",
+    "photo": "/images/resources/mac.jpg",
+    "name": "Sites managed by the curator of dorean.ing",
+    "url": "https://michaelcoughlin.net/links",
+    "title": "Link Directory",
+    "bio": "A directory of the other websites Michael Coughlin builds and maintains.",
+    "sortOrder": 80
+  }
+]

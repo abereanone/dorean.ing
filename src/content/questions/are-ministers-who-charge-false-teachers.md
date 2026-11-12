@@ -1,5 +1,5 @@
 ---
-id: 62
+id: 68
 title: Are ministers who charge for ministry false teachers?
 categories:
   - objections

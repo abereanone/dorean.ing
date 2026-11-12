@@ -1,5 +1,5 @@
 ---
-id: 15
+id: 16
 title: What was the sin of Gehazi?
 categories:
   - scripture
@@ -8,9 +8,9 @@ relatedAnswers:
   - why-did-paul-refuse-pay-from-corinth-but-accept-gifts-from-philippi
   - what-was-the-sin-of-simon-the-sorcerer
   - how-did-paul-practice-free-ministry
-  - what-does-peddling-the-word-of-god-mean
+  - why-was-peter-so-severe-with-simon
   - what-did-jesus-teach-when-he-sent-out-the-twelve
-  - why-did-jesus-drive-the-sellers-out-of-the-temple
+  - what-does-peddling-the-word-of-god-mean
 ---
 
 Gehazi took payment for a healing that God had given freely through Elisha. Elisha had refused Naaman's gift, and Gehazi was struck with Naaman's leprosy for turning God's mercy into a transaction.

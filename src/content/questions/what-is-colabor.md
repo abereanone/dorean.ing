@@ -1,5 +1,5 @@
 ---
-id: 6
+id: 7
 title: What is colabor?
 categories:
   - principle
@@ -7,9 +7,9 @@ authorId: ai
 relatedAnswers:
   - what-is-the-difference-between-supporting-and-selling-ministry
   - what-is-reciprocity
-  - why-should-ministry-be-free
+  - is-selling-ministry-a-kind-of-stealing
   - what-counts-as-gospel-ministry
-  - where-did-jesus-command-freely-give
+  - why-should-ministry-be-free
   - does-the-dorean-principle-forbid-christian-business
 ---
 

@@ -1,5 +1,5 @@
 ---
-id: 36
+id: 42
 title: May Christian conferences charge admission?
 categories:
   - practice

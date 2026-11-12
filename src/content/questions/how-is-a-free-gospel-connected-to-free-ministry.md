@@ -1,5 +1,5 @@
 ---
-id: 10
+id: 11
 title: How is a free gospel connected to free ministry?
 categories:
   - principle
@@ -28,4 +28,6 @@ The gospel announces that God gives eternal life as a gift. When ministers sell 
 
 A message like that can be cheapened by the way it is carried. If a man must pay to hear that salvation is free, the medium has argued against the message. Paul understood this. He asked the Corinthians, "Was it a sin for me to humble myself in order to exalt you, because I preached the gospel of God to you free of charge?" (2 Corinthians 11:7). His free preaching was part of how they could see that the gospel was not one more product in the market of religious teachers.
 
-Isaiah's invitation goes further: "Why spend money on that which is not bread, and your labor on that which does not satisfy?" (Isaiah 55:2). God's bread is not for sale. His servants must hand it out the same way they received it.
+Isaiah's invitation is striking: "come, buy, and eat! Come, buy wine and milk without money and without cost!" (Isaiah 55:1). *Buy* without money? Salvation is free to us, not because it cost nothing, but because Someone else paid the whole price. The only thing that keeps a sinner from it is the pride that would rather earn than receive.
+
+"Why spend money on that which is not bread, and your labor on that which does not satisfy?" (Isaiah 55:2). God's bread is not for sale, because it has already been paid for. His servants must hand it out the same way they received it.

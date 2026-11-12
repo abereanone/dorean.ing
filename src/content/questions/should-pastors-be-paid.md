@@ -1,16 +1,16 @@
 ---
-id: 23
+id: 25
 title: Should pastors be paid?
 categories:
   - support
 authorId: ai
 relatedAnswers:
+  - what-does-the-1689-confession-say-about-supporting-pastors
   - what-does-the-worker-is-worthy-of-his-wages-mean
+  - what-does-it-mean-to-muzzle-the-ox
   - what-does-1-corinthians-9-teach-about-a-ministers-right-to-support
   - who-should-support-a-minister
-  - is-a-pastors-salary-the-same-as-selling-ministry
-  - what-is-tentmaking
-  - may-a-minister-receive-a-gift-from-someone-he-has-helped
+  - how-should-a-congregation-give-to-support-its-ministers
 ---
 
 Yes. Scripture commands churches to provide for those who labor in preaching and teaching. The dorean principle forbids selling ministry, not supporting ministers.

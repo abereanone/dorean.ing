@@ -1,5 +1,5 @@
 ---
-id: 59
+id: 65
 title: "Isn't the dorean principle legalism?"
 categories:
   - objections

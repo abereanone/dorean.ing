@@ -1,5 +1,5 @@
 ---
-id: 41
+id: 47
 title: Should Bible software and Christian apps be free?
 categories:
   - practice

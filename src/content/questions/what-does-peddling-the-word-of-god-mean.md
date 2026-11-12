@@ -1,15 +1,15 @@
 ---
-id: 17
+id: 19
 title: "What does Paul mean by \"peddling the word of God\"?"
 categories:
   - scripture
 authorId: ai
 relatedAnswers:
-  - what-was-the-sin-of-simon-the-sorcerer
+  - why-was-peter-so-severe-with-simon
   - why-did-jesus-drive-the-sellers-out-of-the-temple
-  - what-was-the-sin-of-gehazi
+  - what-was-the-sin-of-simon-the-sorcerer
   - what-does-micah-say-about-priests-who-teach-for-a-price
-  - why-did-paul-refuse-pay-from-corinth-but-accept-gifts-from-philippi
+  - what-was-the-sin-of-gehazi
   - how-does-scripture-describe-teachers-who-serve-for-gain
 ---
 

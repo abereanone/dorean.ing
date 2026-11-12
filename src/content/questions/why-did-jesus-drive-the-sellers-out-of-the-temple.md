@@ -1,5 +1,5 @@
 ---
-id: 18
+id: 20
 title: Why did Jesus drive the sellers out of the temple?
 categories:
   - scripture
@@ -7,9 +7,9 @@ authorId: ai
 relatedAnswers:
   - what-does-peddling-the-word-of-god-mean
   - what-does-micah-say-about-priests-who-teach-for-a-price
-  - what-was-the-sin-of-simon-the-sorcerer
+  - why-was-peter-so-severe-with-simon
   - how-does-scripture-describe-teachers-who-serve-for-gain
-  - what-was-the-sin-of-gehazi
+  - what-was-the-sin-of-simon-the-sorcerer
   - what-does-balaam-teach-us
 ---
 

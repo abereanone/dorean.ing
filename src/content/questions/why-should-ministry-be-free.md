@@ -6,11 +6,11 @@ categories:
 authorId: ai
 relatedAnswers:
   - where-did-jesus-command-freely-give
-  - what-is-the-difference-between-supporting-and-selling-ministry
+  - is-selling-ministry-a-kind-of-stealing
   - what-does-dorean-mean
-  - what-is-colabor
+  - what-is-the-difference-between-supporting-and-selling-ministry
   - what-is-the-dorean-principle
-  - what-is-reciprocity
+  - what-is-colabor
 ---
 
 Because it was freely given to us. The gospel is God's gift, and the Spirit gives understanding of it freely, so those who minister it are stewards of a gift, not sellers of a product.

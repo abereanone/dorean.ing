@@ -1,5 +1,5 @@
 ---
-id: 63
+id: 69
 title: What should a minister or ministry that currently charges do?
 categories:
   - objections

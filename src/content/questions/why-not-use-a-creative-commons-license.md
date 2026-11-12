@@ -1,5 +1,5 @@
 ---
-id: 51
+id: 57
 title: "Isn't a Creative Commons license enough?"
 categories:
   - copyright

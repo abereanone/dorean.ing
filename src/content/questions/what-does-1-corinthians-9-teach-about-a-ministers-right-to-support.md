@@ -1,16 +1,16 @@
 ---
-id: 25
+id: 29
 title: "What does 1 Corinthians 9 teach about a minister's right to support?"
 categories:
   - support
 authorId: ai
 relatedAnswers:
-  - what-does-the-worker-is-worthy-of-his-wages-mean
+  - what-does-it-mean-to-muzzle-the-ox
   - who-should-support-a-minister
-  - should-pastors-be-paid
-  - is-a-pastors-salary-the-same-as-selling-ministry
-  - what-is-tentmaking
-  - may-a-minister-receive-a-gift-from-someone-he-has-helped
+  - what-does-the-worker-is-worthy-of-his-wages-mean
+  - how-should-a-congregation-give-to-support-its-ministers
+  - what-does-the-1689-confession-say-about-supporting-pastors
+  - what-happens-when-a-church-fails-to-support-its-ministers
 ---
 
 Paul argues at length that gospel ministers have a right to be supported, and then explains why he gave up using that right: so that he could offer the gospel free of charge and put no obstacle in its way.

@@ -1,5 +1,5 @@
 ---
-id: 38
+id: 44
 title: May Christians sell books of biblical teaching?
 categories:
   - practice

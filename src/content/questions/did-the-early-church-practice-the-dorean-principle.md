@@ -1,5 +1,5 @@
 ---
-id: 22
+id: 24
 title: Did the early church practice the dorean principle?
 categories:
   - scripture
@@ -10,7 +10,7 @@ relatedAnswers:
   - what-does-micah-say-about-priests-who-teach-for-a-price
   - why-did-jesus-drive-the-sellers-out-of-the-temple
   - what-does-peddling-the-word-of-god-mean
-  - what-was-the-sin-of-simon-the-sorcerer
+  - why-was-peter-so-severe-with-simon
 ---
 
 Yes. The earliest Christian writings after the New Testament warned that a traveling prophet who asked for money was a false prophet, while teaching that true teachers should be supported by the churches.

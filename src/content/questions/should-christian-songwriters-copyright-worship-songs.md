@@ -1,5 +1,5 @@
 ---
-id: 49
+id: 55
 title: Should Christian songwriters copyright their worship songs?
 categories:
   - copyright

@@ -1,5 +1,5 @@
 ---
-id: 40
+id: 46
 title: Should sermons and Bible teaching be behind a paywall?
 categories:
   - practice

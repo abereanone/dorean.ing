@@ -1,5 +1,5 @@
 ---
-id: 53
+id: 59
 title: How can a Christian author or ministry give its work away?
 categories:
   - copyright

@@ -1,5 +1,5 @@
 ---
-id: 29
+id: 35
 title: May a minister accept a gift from someone he has helped?
 categories:
   - support
@@ -9,7 +9,7 @@ relatedAnswers:
   - may-a-church-give-a-visiting-preacher-an-honorarium
   - is-a-pastors-salary-the-same-as-selling-ministry
   - how-should-churches-support-missionaries
-  - who-should-support-a-minister
+  - what-happens-when-a-church-fails-to-support-its-ministers
   - what-is-double-honor
 ---
 

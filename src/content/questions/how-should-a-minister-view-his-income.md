@@ -1,5 +1,5 @@
 ---
-id: 33
+id: 39
 title: How should a minister view the money he receives?
 categories:
   - support

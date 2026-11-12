@@ -1,5 +1,5 @@
 ---
-id: 42
+id: 48
 title: May a ministry sell merchandise to raise money?
 categories:
   - practice

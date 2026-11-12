@@ -17,6 +17,15 @@
     "sortOrder": 15
   },
   {
+    "id": "ox-sermon",
+    "photo": "/images/resources/mac.jpg",
+    "name": "Ox Muzzling Musings (sermon)",
+    "url": "https://teaching.michaelcoughlin.net/listen/2026-11-08-ox-muzzling-musings",
+    "title": "Listen",
+    "bio": "Michael Coughlin preaching 1 Timothy 5:17-18 on the dorean principle: why churches must not muzzle the ox, and why ministers must not sell the grain. Several answers on this site follow it.",
+    "sortOrder": 17
+  },
+  {
     "id": "dorean-book",
     "logo": "/images/resources/dorean.png",
     "name": "The Dorean Principle (book)",

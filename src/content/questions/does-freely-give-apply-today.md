@@ -1,5 +1,5 @@
 ---
-id: 54
+id: 60
 title: "Was \"freely give\" only for the apostles' first mission?"
 categories:
   - objections

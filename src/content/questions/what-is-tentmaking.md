@@ -1,5 +1,5 @@
 ---
-id: 28
+id: 34
 title: What is tentmaking, and is it required?
 categories:
   - support
@@ -7,9 +7,9 @@ authorId: ai
 relatedAnswers:
   - is-a-pastors-salary-the-same-as-selling-ministry
   - may-a-minister-receive-a-gift-from-someone-he-has-helped
-  - who-should-support-a-minister
+  - what-happens-when-a-church-fails-to-support-its-ministers
   - may-a-church-give-a-visiting-preacher-an-honorarium
-  - what-does-1-corinthians-9-teach-about-a-ministers-right-to-support
+  - how-should-a-congregation-give-to-support-its-ministers
   - how-should-churches-support-missionaries
 ---
 

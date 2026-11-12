@@ -1,5 +1,5 @@
 ---
-id: 48
+id: 54
 title: Why do churches pay to sing worship songs?
 categories:
   - copyright

@@ -1,5 +1,5 @@
 ---
-id: 30
+id: 36
 title: May a church give a visiting preacher an honorarium?
 categories:
   - support

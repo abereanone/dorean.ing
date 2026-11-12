@@ -1,5 +1,5 @@
 ---
-id: 61
+id: 67
 title: Should Christians boycott ministries that charge?
 categories:
   - objections

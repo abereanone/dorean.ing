@@ -1,5 +1,5 @@
 ---
-id: 19
+id: 21
 title: What does Micah say about priests who teach for a price?
 categories:
   - scripture
@@ -9,7 +9,7 @@ relatedAnswers:
   - how-does-scripture-describe-teachers-who-serve-for-gain
   - what-does-peddling-the-word-of-god-mean
   - what-does-balaam-teach-us
-  - what-was-the-sin-of-simon-the-sorcerer
+  - why-was-peter-so-severe-with-simon
   - did-the-early-church-practice-the-dorean-principle
 ---
 

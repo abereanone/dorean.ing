@@ -1,5 +1,5 @@
 ---
-id: 39
+id: 45
 title: May ministries sell Bible study curriculum to churches?
 categories:
   - practice

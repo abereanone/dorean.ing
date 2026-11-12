@@ -1,5 +1,5 @@
 ---
-id: 55
+id: 61
 title: Was Jesus only forbidding payment for miracles, not for teaching?
 categories:
   - objections

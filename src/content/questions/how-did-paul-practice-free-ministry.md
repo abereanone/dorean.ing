@@ -1,5 +1,5 @@
 ---
-id: 13
+id: 14
 title: How did Paul practice free ministry?
 categories:
   - scripture
@@ -9,8 +9,8 @@ relatedAnswers:
   - why-did-paul-refuse-pay-from-corinth-but-accept-gifts-from-philippi
   - what-was-the-sin-of-gehazi
   - what-was-the-sin-of-simon-the-sorcerer
+  - why-was-peter-so-severe-with-simon
   - what-does-peddling-the-word-of-god-mean
-  - why-did-jesus-drive-the-sellers-out-of-the-temple
 ---
 
 Paul preached without charging his hearers. He worked with his hands when he had to, accepted gifts from churches that partnered with him, and refused anything that could look like payment from those he was serving.

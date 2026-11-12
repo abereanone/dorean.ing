@@ -1,5 +1,5 @@
 ---
-id: 57
+id: 63
 title: "Don't people value only what they pay for?"
 categories:
   - objections

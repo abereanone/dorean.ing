@@ -1,5 +1,5 @@
 ---
-id: 52
+id: 58
 title: "Doesn't copyright protect the Bible and good teaching from corruption?"
 categories:
   - copyright

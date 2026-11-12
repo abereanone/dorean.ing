@@ -1,15 +1,15 @@
 ---
-id: 27
+id: 33
 title: "Is a pastor's salary the same as selling ministry?"
 categories:
   - support
 authorId: ai
 relatedAnswers:
-  - who-should-support-a-minister
+  - what-happens-when-a-church-fails-to-support-its-ministers
   - what-is-tentmaking
-  - what-does-1-corinthians-9-teach-about-a-ministers-right-to-support
+  - how-should-a-congregation-give-to-support-its-ministers
   - may-a-minister-receive-a-gift-from-someone-he-has-helped
-  - what-does-the-worker-is-worthy-of-his-wages-mean
+  - who-should-support-a-minister
   - may-a-church-give-a-visiting-preacher-an-honorarium
 ---
 

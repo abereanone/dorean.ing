@@ -1,16 +1,16 @@
 ---
-id: 24
+id: 27
 title: "What does \"the worker is worthy of his wages\" mean?"
 categories:
   - support
 authorId: ai
 relatedAnswers:
+  - what-does-the-1689-confession-say-about-supporting-pastors
+  - what-does-it-mean-to-muzzle-the-ox
   - should-pastors-be-paid
   - what-does-1-corinthians-9-teach-about-a-ministers-right-to-support
   - who-should-support-a-minister
-  - is-a-pastors-salary-the-same-as-selling-ministry
-  - what-is-tentmaking
-  - may-a-minister-receive-a-gift-from-someone-he-has-helped
+  - how-should-a-congregation-give-to-support-its-ministers
 ---
 
 It means God's servants deserve to be provided for while they do His work. In context it teaches that they receive their living from those who welcome them and from the church, not that they may charge a fee for ministry.

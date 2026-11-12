@@ -1,15 +1,15 @@
 ---
-id: 5
+id: 6
 title: What is the difference between supporting ministry and selling it?
 categories:
   - principle
 authorId: ai
 relatedAnswers:
-  - why-should-ministry-be-free
+  - is-selling-ministry-a-kind-of-stealing
   - what-is-colabor
-  - where-did-jesus-command-freely-give
+  - why-should-ministry-be-free
   - what-is-reciprocity
-  - what-does-dorean-mean
+  - where-did-jesus-command-freely-give
   - what-counts-as-gospel-ministry
 ---
 

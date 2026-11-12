@@ -1,16 +1,16 @@
 ---
-id: 16
+id: 17
 title: What was the sin of Simon the sorcerer?
 categories:
   - scripture
 authorId: ai
 relatedAnswers:
   - what-was-the-sin-of-gehazi
-  - what-does-peddling-the-word-of-god-mean
+  - why-was-peter-so-severe-with-simon
   - why-did-paul-refuse-pay-from-corinth-but-accept-gifts-from-philippi
-  - why-did-jesus-drive-the-sellers-out-of-the-temple
+  - what-does-peddling-the-word-of-god-mean
   - how-did-paul-practice-free-ministry
-  - what-does-micah-say-about-priests-who-teach-for-a-price
+  - why-did-jesus-drive-the-sellers-out-of-the-temple
 ---
 
 Simon thought the gift of God could be bought with money. Peter condemned him and called him to repent, because spiritual gifts and ministry are not commodities.

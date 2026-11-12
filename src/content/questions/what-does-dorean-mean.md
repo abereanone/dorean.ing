@@ -8,9 +8,9 @@ relatedAnswers:
   - what-is-the-dorean-principle
   - where-did-jesus-command-freely-give
   - why-should-ministry-be-free
+  - is-selling-ministry-a-kind-of-stealing
   - what-is-the-difference-between-supporting-and-selling-ministry
   - what-is-colabor
-  - what-is-reciprocity
 ---
 
 Dorean means "as a gift," "without payment," or "freely." It describes something given without cost to the one who receives it.

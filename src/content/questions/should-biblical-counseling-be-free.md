@@ -1,5 +1,5 @@
 ---
-id: 34
+id: 40
 title: Should biblical counseling be free?
 categories:
   - practice

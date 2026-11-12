@@ -1,5 +1,5 @@
 ---
-id: 14
+id: 15
 title: Why did Paul refuse payment from Corinth but accept gifts from Philippi?
 categories:
   - scripture
@@ -9,8 +9,8 @@ relatedAnswers:
   - what-was-the-sin-of-gehazi
   - what-did-jesus-teach-when-he-sent-out-the-twelve
   - what-was-the-sin-of-simon-the-sorcerer
+  - why-was-peter-so-severe-with-simon
   - what-does-peddling-the-word-of-god-mean
-  - why-did-jesus-drive-the-sellers-out-of-the-temple
 ---
 
 Because the Philippians gave as partners in his mission to others, while money from the Corinthians, among whom he was then preaching, would have been payment by his hearers for the gospel he was bringing them.

@@ -1,5 +1,5 @@
 ---
-id: 60
+id: 66
 title: "What about \"suggested donations,\" sliding scales or scholarships?"
 categories:
   - objections

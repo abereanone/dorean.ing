@@ -1,5 +1,5 @@
 ---
-id: 44
+id: 50
 title: How can a ministry be funded without selling its work?
 categories:
   - practice

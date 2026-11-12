@@ -1,5 +1,5 @@
 ---
-id: 20
+id: 22
 title: How does Scripture describe teachers who serve for gain?
 categories:
   - scripture
@@ -10,7 +10,7 @@ relatedAnswers:
   - why-did-jesus-drive-the-sellers-out-of-the-temple
   - did-the-early-church-practice-the-dorean-principle
   - what-does-peddling-the-word-of-god-mean
-  - what-was-the-sin-of-simon-the-sorcerer
+  - why-was-peter-so-severe-with-simon
 ---
 
 The New Testament repeatedly marks false teachers by their greed: they "regard godliness as a means of gain," exploit people with deceptive words, and teach for dishonorable profit. Faithful elders must be free of the love of money.

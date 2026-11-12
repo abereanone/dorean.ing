@@ -1,5 +1,5 @@
 ---
-id: 46
+id: 52
 title: Should Bible translations be copyrighted?
 categories:
   - copyright

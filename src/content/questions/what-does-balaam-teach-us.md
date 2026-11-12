@@ -1,5 +1,5 @@
 ---
-id: 21
+id: 23
 title: What does Balaam teach us about ministry and money?
 categories:
   - scripture
@@ -10,7 +10,7 @@ relatedAnswers:
   - what-does-micah-say-about-priests-who-teach-for-a-price
   - why-did-jesus-drive-the-sellers-out-of-the-temple
   - what-does-peddling-the-word-of-god-mean
-  - what-was-the-sin-of-simon-the-sorcerer
+  - why-was-peter-so-severe-with-simon
 ---
 
 Balaam was a prophet who could be hired. He "loved the wages of wickedness," and the New Testament holds him up as the pattern of teachers who turn their gift into a source of profit.

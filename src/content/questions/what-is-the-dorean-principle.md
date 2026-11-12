@@ -8,9 +8,9 @@ relatedAnswers:
   - what-does-dorean-mean
   - where-did-jesus-command-freely-give
   - why-should-ministry-be-free
+  - is-selling-ministry-a-kind-of-stealing
   - what-is-the-difference-between-supporting-and-selling-ministry
   - what-is-colabor
-  - what-is-reciprocity
 ---
 
 The dorean principle is Jesus' command that the ministry of His Word be given freely: those who serve in the gospel may be supported by God's people, but they must never sell the ministry itself.

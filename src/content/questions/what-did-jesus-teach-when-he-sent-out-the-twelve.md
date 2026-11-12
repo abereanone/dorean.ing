@@ -1,5 +1,5 @@
 ---
-id: 12
+id: 13
 title: What did Jesus teach when He sent out the twelve?
 categories:
   - scripture
@@ -9,8 +9,8 @@ relatedAnswers:
   - why-did-paul-refuse-pay-from-corinth-but-accept-gifts-from-philippi
   - what-was-the-sin-of-gehazi
   - what-was-the-sin-of-simon-the-sorcerer
+  - why-was-peter-so-severe-with-simon
   - what-does-peddling-the-word-of-god-mean
-  - why-did-jesus-drive-the-sellers-out-of-the-temple
 ---
 
 He sent them to preach and heal without charge and without money of their own, to stay with those who welcomed them, and to trust that the Lord of the harvest would provide for His workers.

@@ -1,5 +1,5 @@
 ---
-id: 37
+id: 43
 title: Should seminaries charge tuition?
 categories:
   - practice

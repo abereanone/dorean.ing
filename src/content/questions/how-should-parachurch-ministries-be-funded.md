@@ -1,5 +1,5 @@
 ---
-id: 43
+id: 49
 title: How should parachurch ministries be funded?
 categories:
   - practice

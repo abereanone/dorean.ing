@@ -1,5 +1,5 @@
 ---
-id: 7
+id: 8
 title: What is reciprocity, and why is it wrong in ministry?
 categories:
   - principle
@@ -9,7 +9,7 @@ relatedAnswers:
   - what-counts-as-gospel-ministry
   - what-is-the-difference-between-supporting-and-selling-ministry
   - does-the-dorean-principle-forbid-christian-business
-  - why-should-ministry-be-free
+  - is-selling-ministry-a-kind-of-stealing
   - how-is-a-free-gospel-connected-to-free-ministry
 ---
 

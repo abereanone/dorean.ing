@@ -1,5 +1,5 @@
 ---
-id: 47
+id: 53
 title: If ministry should be free, may I copy a copyrighted Christian book without permission?
 categories:
   - copyright

@@ -1,5 +1,5 @@
 ---
-id: 35
+id: 41
 title: Should pastors charge for weddings or funerals?
 categories:
   - practice

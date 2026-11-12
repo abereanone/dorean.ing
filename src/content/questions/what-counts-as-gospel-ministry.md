@@ -1,5 +1,5 @@
 ---
-id: 8
+id: 9
 title: What counts as gospel ministry under the dorean principle?
 categories:
   - principle

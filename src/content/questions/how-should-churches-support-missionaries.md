@@ -1,5 +1,5 @@
 ---
-id: 31
+id: 37
 title: How should churches support missionaries?
 categories:
   - support

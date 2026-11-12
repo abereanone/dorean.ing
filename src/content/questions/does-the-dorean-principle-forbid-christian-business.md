@@ -1,5 +1,5 @@
 ---
-id: 9
+id: 10
 title: Does the dorean principle forbid Christians from running businesses?
 categories:
   - principle

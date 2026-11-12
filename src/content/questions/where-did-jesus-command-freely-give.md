@@ -8,9 +8,9 @@ relatedAnswers:
   - what-does-dorean-mean
   - why-should-ministry-be-free
   - what-is-the-dorean-principle
+  - is-selling-ministry-a-kind-of-stealing
   - what-is-the-difference-between-supporting-and-selling-ministry
   - what-is-colabor
-  - what-is-reciprocity
 ---
 
 When Jesus sent out the twelve to preach the kingdom, He told them, "Freely you have received; freely give," and sent them without money, trusting God to provide for them through those who received them.

@@ -1,5 +1,5 @@
 ---
-id: 58
+id: 64
 title: Ministry costs money. How else will the bills be paid?
 categories:
   - objections

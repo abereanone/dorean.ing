@@ -1,16 +1,16 @@
 ---
-id: 26
+id: 30
 title: Who should support a minister?
 categories:
   - support
 authorId: ai
 relatedAnswers:
   - what-does-1-corinthians-9-teach-about-a-ministers-right-to-support
-  - is-a-pastors-salary-the-same-as-selling-ministry
+  - how-should-a-congregation-give-to-support-its-ministers
+  - what-does-it-mean-to-muzzle-the-ox
+  - what-happens-when-a-church-fails-to-support-its-ministers
   - what-does-the-worker-is-worthy-of-his-wages-mean
-  - what-is-tentmaking
-  - should-pastors-be-paid
-  - may-a-minister-receive-a-gift-from-someone-he-has-helped
+  - is-a-pastors-salary-the-same-as-selling-ministry
 ---
 
 God's people, giving through the church and as partners in the work, out of obedience to the Lord. Support should not come as a charge on the person receiving the ministry.

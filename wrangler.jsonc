@@ -10,6 +10,6 @@
     // dist/404.html for anything not found, with a 404 status.
     "not_found_handling": "404-page",
   },
-  // Custom domain: add once dorean.ing is a zone in this account.
-  // "routes": [{ "pattern": "dorean.ing", "custom_domain": true }]
+  // Custom domain (attached in the dashboard 2026-11-12; kept here so config matches).
+  "routes": [{ "pattern": "dorean.ing", "custom_domain": true }],
 }

@@ -43,12 +43,28 @@
     "sortOrder": 30
   },
   {
+    "id": "simony",
+    "name": "The Doctrine of Simony",
+    "url": "https://simony.info",
+    "title": "Website",
+    "bio": "How the church has condemned the selling of spiritual things, from the early canons and the medieval schoolmen to the confessions of the Reformation.",
+    "sortOrder": 35
+  },
+  {
     "id": "copy-church",
     "name": "Let's copy, church",
     "url": "https://copy.church",
     "title": "Website",
     "bio": "On removing copyright restrictions from Christian resources so they can be freely copied, translated and shared.",
     "sortOrder": 40
+  },
+  {
+    "id": "freely-giving-home",
+    "name": "Freely Giving",
+    "url": "https://freely.giving",
+    "title": "Website",
+    "bio": "Christian resources given away free of cost and free of copyright, for the sake of the gospel.",
+    "sortOrder": 45
   },
   {
     "id": "freely-giving",

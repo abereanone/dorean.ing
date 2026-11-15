@@ -13,7 +13,7 @@ relatedAnswers:
   - how-should-a-minister-view-his-income
 ---
 
-Yes, as a gift to support his ministry. It should not be a price he sets as a condition of coming, and his preaching should be free to everyone who hears it.
+Yes, as a gift to support his ministry, but not as a price on the message. As such, no minister who is already sufficiently supported should require it as a condition of his work.
 
 ## Proofs
 - 3 John 5-8
@@ -31,3 +31,5 @@ Two things keep it on the right side of the line:
 
 1. **The preacher does not set a price.** If he will only come for a fee, he is selling his preaching. He may tell a church honestly what his travel costs, and a church should be generous, but the decision to come should not depend on the payment.
 2. **The hearers do not pay.** The preaching itself must be open and free. An honorarium from the church's offerings is support. Tickets sold to the congregation to cover the speaker's fee are a sale.
+
+This is an old line. The medieval church distinguished clergy who were *beneficed*, holding a benefice (a church office with its own income), from those who were not. A beneficed priest already had his living, so demanding payment for his ministry on top of it was condemned as simony. The same holds today: a minister who is already sufficiently supported has no ground to make an honorarium a condition of his work.

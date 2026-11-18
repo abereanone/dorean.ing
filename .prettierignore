@@ -21,6 +21,9 @@ src/content/
 src/layouts/Main.astro
 src/components/QuestionAnswer.astro
 
+# Copy of C:/code/go-links/go-links.mjs; keep it byte-identical to the canonical file.
+scripts/go-links.mjs
+
 # Generated monthly by site-stats/scripts/publish-pages.ps1
 public/site-stats.html
 

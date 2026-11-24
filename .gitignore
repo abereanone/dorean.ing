@@ -23,3 +23,6 @@ Thumbs.db
 devserver*.err
 devserver*.log
 .tmp-beddome-import/
+
+# Share images live on R2 (C:/code/quote-cards); a local copy for the dev server goes here.
+public/quotes/
